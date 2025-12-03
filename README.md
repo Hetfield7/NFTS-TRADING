@@ -1,3 +1,3 @@
 # NFTS-TRADING
 Guide NFTs
-Trade
+Trade Section
